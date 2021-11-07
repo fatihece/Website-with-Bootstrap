@@ -10,7 +10,6 @@
 ## Author
 
 👤 **Fatih Yürek**
-
 - LinkedIn: [@fatihyurek](https://www.linkedin.com/in/fatihyurek/)
 - Email: fatihenaz@gmail.com
 
